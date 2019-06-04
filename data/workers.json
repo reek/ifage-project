@@ -1,0 +1,21 @@
+[{
+    "name": "ricardo",
+    "photo": "images/workers/ricardo.png",
+    "job": "Full Stack Developer",
+    "description": "A Full Stack developer is responsible for front and back-end web development. Usually, good full stack developers will understand several how to work with several languages and databases including PHP, HTML, CSS, JavaScript and everything in between."
+}, {
+    "name": "lia",
+    "photo": "images/workers/lia.png",
+    "job": "Web Designer",
+    "description": "Web design is a profession where a person designs a web page or a web site. The web page can have graphics, music, animations, and many other things on it."
+}, {
+    "name": "alex",
+    "photo": "images/workers/alex.png",
+    "job": "Front-end Developer",
+    "description": "A front-end developer is a type of computer programmer that codes and creates the visual front-end elements of a software, application or website. He or she creates computing components/features that are directly viewable and accessible by the end user or client."
+}, {
+    "name": "hervé",
+    "photo": "images/workers/herve.png",
+    "job": "Back-end Developer",
+    "description": "A back-end web developer is responsible for server-side web application logic and integration of the work front-end developers do. Back-end developers are usually write the web services and APIs used by front-end developers and mobile application developers."
+}]
